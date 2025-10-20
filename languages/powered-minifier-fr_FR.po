@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Powered Minifier 1.7.9\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/powered-minifier\n"
 "Last-Translator: NeosLab <support@neoslab.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: Français <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,152 +18,152 @@ msgstr ""
 #: powered-minifier.php
 #: admin/class-powered-minifier-admin.php:74
 msgid "Powered Minifier"
-msgstr ""
+msgstr "Powered Minifier"
 
 #. Plugin URI of the plugin
 #: powered-minifier.php
 msgid "https://wordpress.org/plugins/powered-minifier/"
-msgstr ""
+msgstr "https://wordpress.org/plugins/powered-minifier/"
 
 #. Description of the plugin
 #: powered-minifier.php
 msgid "Powered Minifier allow you to reduce your page load and increase your performance by minifying your HTML source along with all the CSS and JS code present in your markup."
-msgstr ""
+msgstr "Powered Minifier vous permet de réduire le temps de chargement et d’augmenter les performances en miniﬁant votre code source HTML ainsi que tout le CSS et le JS présents dans votre balisage."
 
 #. Author of the plugin
 #: powered-minifier.php
 msgid "NeosLab"
-msgstr ""
+msgstr "NeosLab"
 
 #. Author URI of the plugin
 #: powered-minifier.php
 msgid "https://neoslab.com"
-msgstr ""
+msgstr "https://neoslab.com"
 
 #: admin/class-powered-minifier-admin.php:86
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #: admin/partials/powered-minifier-admin-options.php:4
 msgid "Your settings have been successfully updated."
-msgstr ""
+msgstr "Vos paramètres ont été mis à jour avec succès."
 
 #: admin/partials/powered-minifier-admin-options.php:23
 msgid "You have not set up your minifier options ! In order to do so, please use the below form."
-msgstr ""
+msgstr "Vous n’avez pas encore configuré vos options de minification ! Pour ce faire, veuillez utiliser le formulaire ci-dessous."
 
 #: admin/partials/powered-minifier-admin-options.php:28
 msgid "Your plugin is properly configured ! You can change at anytime your minifier options using the below form."
-msgstr ""
+msgstr "Votre extension est correctement configurée ! Vous pouvez modifier à tout moment les options de minification via le formulaire ci-dessous."
 
 #: admin/partials/powered-minifier-admin-options.php:37
 msgid "Minify HTML"
-msgstr ""
+msgstr "Minifier le HTML"
 
 #: admin/partials/powered-minifier-admin-options.php:45
 msgid "Do you want to minify your HTML HTML source ?"
-msgstr ""
+msgstr "Souhaitez-vous minifier votre source HTML ?"
 
 #: admin/partials/powered-minifier-admin-options.php:49
 msgid "Minification Level"
-msgstr ""
+msgstr "Niveau de minification"
 
 #: admin/partials/powered-minifier-admin-options.php:53
 msgid "Low (higher readability)"
-msgstr ""
+msgstr "Faible (meilleure lisibilité)"
 
 #: admin/partials/powered-minifier-admin-options.php:54
 msgid "Highest (no readability, smallest size)"
-msgstr ""
+msgstr "Maximal (aucune lisibilité, taille minimale)"
 
 #: admin/partials/powered-minifier-admin-options.php:76
 msgid "Minify CSS"
-msgstr ""
+msgstr "Minifier le CSS"
 
 #: admin/partials/powered-minifier-admin-options.php:84
 msgid "Do you want to minify the CSS code present in the HTML source ?"
-msgstr ""
+msgstr "Souhaitez-vous minifier le code CSS présent dans la source HTML ?"
 
 #: admin/partials/powered-minifier-admin-options.php:88
 msgid "Minify JS"
-msgstr ""
+msgstr "Minifier le JS"
 
 #: admin/partials/powered-minifier-admin-options.php:96
 msgid "Do you want to minify the JS code present in the HTML source ?"
-msgstr ""
+msgstr "Souhaitez-vous minifier le code JS présent dans la source HTML ?"
 
 #: admin/partials/powered-minifier-admin-options.php:100
 msgid "Remove HTML / CSS and JS Comments"
-msgstr ""
+msgstr "Supprimer les commentaires HTML / CSS et JS"
 
 #: admin/partials/powered-minifier-admin-options.php:108
 msgid "Do you want to remove the HTML / CSS and JS comments from the HTML source ?"
-msgstr ""
+msgstr "Souhaitez-vous supprimer les commentaires HTML / CSS et JS de la source HTML ?"
 
 #: admin/partials/powered-minifier-admin-options.php:112
 msgid "Remove HTML / CSS and JS empty lines"
-msgstr ""
+msgstr "Supprimer les lignes vides HTML / CSS et JS"
 
 #: admin/partials/powered-minifier-admin-options.php:120
 msgid "Do you want to remove the HTML / CSS and JS empty lines from the HTML source ?"
-msgstr ""
+msgstr "Souhaitez-vous supprimer les lignes vides HTML / CSS et JS de la source HTML ?"
 
 #: admin/partials/powered-minifier-admin-options.php:124
 msgid "Remove XHTML closing tag from HTML5 void elements"
-msgstr ""
+msgstr "Supprimer la balise de fermeture XHTML des éléments vides HTML5"
 
 #: admin/partials/powered-minifier-admin-options.php:132
 msgid "Do you want to remove the XHTML closing tag ? (If you are not sure leave \"ON\")"
-msgstr ""
+msgstr "Souhaitez-vous supprimer la balise de fermeture XHTML ? (Si vous n’êtes pas sûr, laissez « ON »)"
 
 #: admin/partials/powered-minifier-admin-options.php:136
 msgid "Remove relative domain from internal URLs"
-msgstr ""
+msgstr "Supprimer le domaine relatif des URL internes"
 
 #: admin/partials/powered-minifier-admin-options.php:144
 msgid "Do you want to remove the relative domain from the internal URLs ? (If you are not sure leave \"OFF\")"
-msgstr ""
+msgstr "Souhaitez-vous supprimer le domaine relatif des URL internes ? (Si vous n’êtes pas sûr, laissez « OFF »)"
 
 #: admin/partials/powered-minifier-admin-options.php:148
 msgid "Remove HTTP/HTTPS from all URLs"
-msgstr ""
+msgstr "Supprimer HTTP/HTTPS de toutes les URL"
 
 #: admin/partials/powered-minifier-admin-options.php:156
 msgid "Do you want to remove the HTTP & HTTPS schemes from all URLs ? (If you are not sure leave \"OFF\")"
-msgstr ""
+msgstr "Souhaitez-vous supprimer les schémas HTTP et HTTPS de toutes les URL ? (Si vous n’êtes pas sûr, laissez « OFF »)"
 
 #: admin/partials/powered-minifier-admin-options.php:160
 msgid "Support Multi-Byte UTF-8 encoding"
-msgstr ""
+msgstr "Prendre en charge l’encodage UTF-8 multi-octets"
 
 #: admin/partials/powered-minifier-admin-options.php:168
 msgid "Do you want to support multi-byte encoding if you see odd encoding ? (If you are not sure leave \"OFF\")"
-msgstr ""
+msgstr "Souhaitez-vous activer la prise en charge multi-octets si vous constatez des encodages étranges ? (Si vous n’êtes pas sûr, laissez « OFF »)"
 
 #: admin/partials/powered-minifier-admin-options.php:172
 msgid "Display Stats"
-msgstr ""
+msgstr "Afficher les statistiques"
 
 #: admin/partials/powered-minifier-admin-options.php:180
 msgid "Do you want to display the minification stats at the bottom of the HTML source ?"
-msgstr ""
+msgstr "Souhaitez-vous afficher les statistiques de minification en bas de la source HTML ?"
 
 #: admin/partials/powered-minifier-admin-options.php:184
 msgid "Debug Comments"
-msgstr ""
+msgstr "Commentaires de débogage"
 
 #: admin/partials/powered-minifier-admin-options.php:192
 msgid "Do you want to display the debug html comments at the header and footer of the HTML source ?"
-msgstr ""
+msgstr "Souhaitez-vous afficher des commentaires HTML de debug en en-tête et en pied de la source HTML ?"
 
 #: admin/partials/powered-minifier-admin-options.php:196
 msgid "Console Load Time"
-msgstr ""
+msgstr "Temps de chargement (console)"
 
 #: admin/partials/powered-minifier-admin-options.php:204
 msgid "Do you want to display the page loading time into your browser console ? (If you are not sure leave \"OFF\")"
-msgstr ""
+msgstr "Souhaitez-vous afficher le temps de chargement de la page dans la console du navigateur ? (Si vous n’êtes pas sûr, laissez « OFF »)"
 
 #: admin/partials/powered-minifier-admin-options.php:208
 msgid "Update Settings"
-msgstr ""
+msgstr "Mettre à jour les paramètres"
